@@ -24,7 +24,7 @@ for nome, titulo, cor, f in CURVAS:
     y = f(x)
     fig, ax = plt.subplots(figsize=(16, 9), dpi=120)
     fig.patch.set_facecolor("white"); ax.set_facecolor("white")
-    ax.grid(True, color="#333333", linewidth=3, linestyle="--", alpha=.85)
+    ax.grid(True, color="#A6A6A6", linewidth=2.5, linestyle="--", alpha=1)
     ax.fill_between(x, y, color=cor, alpha=.45, zorder=2)
     ax.plot(x, y, color=cor, linewidth=13, solid_capstyle="round", zorder=3)
     xp = x[np.argmax(y)]
