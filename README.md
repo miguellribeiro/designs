@@ -1,3 +1,7 @@
-# New repo
+# Designs
 
-This repo was created by a Cursor cloud agent.
+Repositório de trabalhos de design do Miguel. Cada projeto está organizado em sua própria pasta.
+
+## Projetos
+
+- [Curvas de Gauss para projetor](curvas-gauss/)
