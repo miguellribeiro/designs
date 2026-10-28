@@ -10,7 +10,7 @@ CURVAS = [
     ("curva-gauss-padrao", "Curva de Gauss padrão", "#0047FF", lambda x: norm.pdf(x)),
     ("curva-gauss-acentuada-crescente", "Curva acentuada crescente", "#E6002E",
      lambda x: skewnorm.pdf(x, 6, loc=-1.6, scale=2.2)),
-    ("curva-gauss-acentuada-decrescente", "Curva acentuada decrescente", "#00A63E",
+    ("curva-gauss-acentuada-decrescente", "Curva acentuada decrescente", "#FF6A00",
      lambda x: skewnorm.pdf(x, -6, loc=1.6, scale=2.2)),
 ]
 

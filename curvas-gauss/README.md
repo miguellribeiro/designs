@@ -1,6 +1,6 @@
 # Curvas de Gauss para projetor
 
-Três curvas de Gauss em cores fortes para projeção em parede branca: padrão (azul, simétrica), acentuada crescente (vermelha, com assimetria positiva) e acentuada decrescente (verde, com assimetria negativa).
+Três curvas de Gauss em cores fortes para projeção em parede branca: padrão (azul, simétrica), acentuada crescente (vermelha, com assimetria positiva) e acentuada decrescente (laranja, com assimetria negativa).
 
 ## Imagens
 
